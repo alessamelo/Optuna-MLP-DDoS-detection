@@ -4,7 +4,7 @@
     "recall": 0.999574021990855,
     "f1_score": 0.999786705878838,
     "auc": 0.9999873947503551,
-    "inference_time_ms": 1117.7216200000203,
+    "inference_time_ms": 1318.008829999998,
     "confusion_matrix": [
         [
             3914,
